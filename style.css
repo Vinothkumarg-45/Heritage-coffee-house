@@ -69,7 +69,7 @@
 
 .hero-section{
     width:100%;
-    min-height:100vh;
+    min-height:665px;
     background-image:url('img/home_bg_img.png');
     background-size:cover;
     background-position:center;
