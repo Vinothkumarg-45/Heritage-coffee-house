@@ -562,7 +562,7 @@
 .franchise-section{
     background-image:url('img/imgbg.png');
     color:#7A2310;
-    padding:50px 0;
+    padding-top:50px;
     border-bottom:3px solid #7A2310;
 }
 .franchise-section h1,h3{
