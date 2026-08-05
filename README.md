@@ -50,8 +50,7 @@ Heritage-coffee-house/
 **Vinoth Kumar G**
 
 * GitHub: https://github.com/Vinothkumarg-45
-* Portfolio: https://vinothkumarg-45.github.io/Heritage-coffee-house/
 
 ## 📄 License
 
-This project is intended for learning and portfolio purposes.
+This project is intended for learning purposes.
