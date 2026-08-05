@@ -38,16 +38,6 @@ Heritage-coffee-house/
 └── README.md
 ```
 
-## 💻 Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Vinothkumarg-45/Heritage-coffee-house.git
-   ```
-2. Open the project folder.
-3. Run `index.html` in your browser.
-
 ## 📈 Future Improvements
 
 * Add an online ordering feature
